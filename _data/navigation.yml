@@ -1,12 +1,11 @@
 # main links
 main:
-  - title: "Home"
-    url: /home/
+
   - title: "Projects"
-    url: /projects/
+    url: /_layouts/posts.html
   - title: "Publications"
-    url: /publications/
+    url: /_layouts/publications.html
   - title: "CV"
-    url: /cv/
+    url: /cv_0224.pdf
   # - title: "Sitemap"
   #   url: /sitemap/
