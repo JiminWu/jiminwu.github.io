@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Jimin Wu"
 title_separator          : "-"
-subtitle                 : PhD candidate at Rice University # 
+subtitle                 : PhD candidate at Rice University, Department of Bioengineering # 
 name                     : "Jimin Wu"
 description              : "Jimin Wu's personal website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -104,11 +104,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jimin Wu"
+  name             : "Contact"
   avatar           : /assets/images/Jimin2.jpg
-  bio              : "PhD candidate at Rice University, Department of Bioengineering."
+  bio              : "6100 Main St., Houston, TX 77005 \n\
+			Email: jimin.wu at rice.edu"
   location         : "Houston, Texas"
-  email            : jimin.wu at rice.edu
+  # email            : jimin.wu at rice.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
