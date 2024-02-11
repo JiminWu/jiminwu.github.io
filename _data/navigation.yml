@@ -2,7 +2,7 @@
 main:
 
   - title: "Projects"
-    url: _pages/sample-page.md
+    url: /test/index.html
   - title: "Publications"
     url: _pages/page-a.md
   - title: "CV"
