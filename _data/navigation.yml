@@ -2,7 +2,7 @@
 main:
 
   - title: "Projects"
-    url: _pages/projects.html
+    url: projects.html
   - title: "Publications"
     url: _pages/page-archive-grid.html
   - title: "CV"
