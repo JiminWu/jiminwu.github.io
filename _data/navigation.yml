@@ -4,7 +4,7 @@ main:
   - title: "Projects"
     url: _pages/projects.html
   - title: "Publications"
-    url: test/index.html
+    url: _pages/page-archive-grid.html
   - title: "CV"
     url: CV_0224.pdf
   # - title: "Sitemap"
