@@ -2,9 +2,9 @@
 main:
 
   - title: "Projects"
-    url: /_layouts/posts.html
+    url: /pages/posts.html
   - title: "Publications"
-    url: /_layouts/publications.html
+    url: /pages/publications.html
   - title: "CV"
     url: CV_0224.pdf
   # - title: "Sitemap"
