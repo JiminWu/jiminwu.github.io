@@ -2,7 +2,7 @@
 main:
 
   - title: "Projects"
-    url: posts.html
+    url: _pages/projects.html
   - title: "Publications"
     url: test/index.html
   - title: "CV"
