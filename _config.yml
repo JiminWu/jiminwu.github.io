@@ -59,8 +59,8 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : true # true, false (default)
-search                   : true # true, false (default)
-search_full_content      : true # true, false (default)
+search                   : false # true, false (default)
+search_full_content      : false # true, false (default)
 search_provider          : google # lunr (default), algolia, google
 lunr:
   search_within_pages    : # true, false (default)
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : " "
+  name             : "Jimin Wu"
   avatar           : "/assets/images/Jimin2.jpg"
   bio              : "6100 Main St., Houston, TX 77005 \n\
 			Email:  jimin.wu at rice.edu"
